@@ -29,15 +29,33 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-03-15 04:29:34 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/holly_boat": {
     "criteria": {
       "in_water": "2025-03-15 03:47:30 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_helmet": "2025-03-15 04:29:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-03-15 04:24:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-03-15 04:39:52 +0000"
     },
     "done": true
   },
@@ -167,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-03-15 04:39:09 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/rocky_stone": {
     "criteria": {
       "has_cobblestone": "2025-03-15 03:45:50 +0000"
@@ -208,6 +232,12 @@
       "has_lots_of_items": "2025-03-15 03:46:51 +0000"
     },
     "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:redwood_thicket": "2025-03-15 04:37:12 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/shears": {
     "criteria": {
@@ -721,6 +751,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-03-15 04:44:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-03-15 03:45:50 +0000"
@@ -799,6 +835,12 @@
     },
     "done": true
   },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:redwood_thicket": "2025-03-15 04:37:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-03-15 03:45:27 +0000"
@@ -832,6 +874,12 @@
   "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
     "criteria": {
       "has_deepslate_bricks": "2025-03-15 04:02:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_helmet": "2025-03-15 04:29:34 +0000"
     },
     "done": true
   },
