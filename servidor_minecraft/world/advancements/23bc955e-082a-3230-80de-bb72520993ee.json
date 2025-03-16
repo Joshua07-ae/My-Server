@@ -623,6 +623,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-03-16 03:38:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-16 02:50:25 +0000"
@@ -728,6 +734,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-16 02:46:52 +0000",
+      "minecraft:witch": "2025-03-16 03:44:59 +0000",
       "minecraft:spider": "2025-03-16 02:53:23 +0000",
       "minecraft:zombie": "2025-03-16 02:43:43 +0000",
       "minecraft:creeper": "2025-03-16 03:26:59 +0000",
@@ -792,6 +799,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-03-16 02:22:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-03-16 03:44:21 +0000"
     },
     "done": true
   },
@@ -1136,6 +1149,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-16 02:50:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-03-16 03:44:21 +0000"
     },
     "done": true
   },
