@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-03-16 03:27:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-03-16 02:32:22 +0000"
@@ -392,6 +398,12 @@
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2025-03-16 02:51:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-03-16 03:27:43 +0000"
     },
     "done": true
   },
@@ -551,6 +563,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-03-16 03:35:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-16 02:22:24 +0000"
@@ -560,6 +578,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-03-16 02:38:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-03-16 03:27:43 +0000"
     },
     "done": true
   },
@@ -689,6 +713,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-03-16 03:27:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-03-16 02:50:37 +0000"
@@ -700,6 +730,7 @@
       "minecraft:skeleton": "2025-03-16 02:46:52 +0000",
       "minecraft:spider": "2025-03-16 02:53:23 +0000",
       "minecraft:zombie": "2025-03-16 02:43:43 +0000",
+      "minecraft:creeper": "2025-03-16 03:26:59 +0000",
       "minecraft:drowned": "2025-03-16 02:24:09 +0000"
     },
     "done": false
@@ -779,6 +810,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2025-03-16 02:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-03-16 03:27:43 +0000"
     },
     "done": true
   },
@@ -910,6 +947,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-16 02:22:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-03-16 03:27:43 +0000"
     },
     "done": true
   },
@@ -1045,6 +1088,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-16 02:34:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-03-16 03:27:43 +0000"
     },
     "done": true
   },
