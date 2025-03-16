@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-03-16 02:33:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-03-16 02:17:08 +0000"
@@ -38,6 +44,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-03-16 02:17:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-03-16 02:29:16 +0000"
     },
     "done": true
   },
@@ -149,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-03-16 02:33:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-03-16 02:17:12 +0000"
@@ -158,6 +176,12 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-03-16 02:17:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-03-16 02:33:24 +0000"
     },
     "done": true
   },
@@ -202,7 +226,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "mutton": "2025-03-16 02:19:30 +0000"
+      "mutton": "2025-03-16 02:19:30 +0000",
+      "porkchop": "2025-03-16 02:33:27 +0000"
     },
     "done": false
   },
@@ -233,6 +258,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-03-16 02:17:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-03-16 02:29:16 +0000"
     },
     "done": true
   },
