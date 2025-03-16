@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-03-16 03:06:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-03-16 02:23:05 +0000"
@@ -347,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-03-16 03:08:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-03-16 02:25:04 +0000"
@@ -545,6 +557,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-16 03:08:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-03-16 02:39:57 +0000"
@@ -659,9 +677,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-03-16 03:13:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-03-16 02:47:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-03-16 03:07:50 +0000"
     },
     "done": true
   },
@@ -984,6 +1014,7 @@
       "mutton": "2025-03-16 02:45:40 +0000",
       "chicken": "2025-03-16 02:26:25 +0000",
       "rotten_flesh": "2025-03-16 02:23:56 +0000",
+      "beef": "2025-03-16 03:09:19 +0000",
       "porkchop": "2025-03-16 02:42:07 +0000"
     },
     "done": false
@@ -1030,6 +1061,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-03-16 03:08:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-16 02:54:39 +0000"
@@ -1045,6 +1082,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-03-16 02:54:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-03-16 03:06:29 +0000"
     },
     "done": true
   },
@@ -1165,6 +1208,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-03-16 02:23:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-03-16 03:06:29 +0000"
     },
     "done": true
   },
