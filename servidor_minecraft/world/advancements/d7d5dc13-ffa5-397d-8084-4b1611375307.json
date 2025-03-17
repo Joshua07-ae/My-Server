@@ -10,9 +10,13 @@
       "minecraft:old_growth_birch_forest": "2025-03-16 02:41:09 +0000",
       "minecraft:dark_forest": "2025-03-16 04:05:47 +0000",
       "minecraft:forest": "2025-03-16 02:25:29 +0000",
+      "minecraft:mangrove_swamp": "2025-03-17 20:05:59 +0000",
+      "minecraft:sparse_jungle": "2025-03-17 20:08:06 +0000",
       "minecraft:river": "2025-03-16 02:23:45 +0000",
       "minecraft:birch_forest": "2025-03-16 02:18:49 +0000",
+      "minecraft:windswept_hills": "2025-03-17 20:02:57 +0000",
       "minecraft:dripstone_caves": "2025-03-16 02:26:57 +0000",
+      "minecraft:savanna": "2025-03-17 20:05:19 +0000",
       "minecraft:plains": "2025-03-16 03:32:30 +0000"
     },
     "done": false
@@ -1900,6 +1904,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2025-03-17 19:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-03-17 20:10:36 +0000"
     },
     "done": true
   },
