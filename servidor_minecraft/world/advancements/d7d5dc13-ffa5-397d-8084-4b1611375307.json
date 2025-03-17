@@ -160,6 +160,7 @@
       "minecraft:blaze": "2025-03-16 03:26:47 +0000",
       "minecraft:cave_spider": "2025-03-16 02:59:05 +0000",
       "minecraft:skeleton": "2025-03-16 02:46:52 +0000",
+      "minecraft:enderman": "2025-03-17 19:34:41 +0000",
       "minecraft:magma_cube": "2025-03-16 03:22:35 +0000",
       "minecraft:spider": "2025-03-16 02:50:00 +0000",
       "minecraft:zombie": "2025-03-16 02:20:33 +0000",
@@ -1832,6 +1833,54 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-03-16 03:57:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-03-17 19:35:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-03-17 19:40:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2025-03-17 19:40:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-03-17 19:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-03-17 19:40:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-03-17 19:40:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-03-17 19:40:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-03-17 19:35:38 +0000"
     },
     "done": true
   },
