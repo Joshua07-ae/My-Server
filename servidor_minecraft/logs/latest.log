@@ -1,141 +1,81 @@
-[02:05:49] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
-[02:05:49] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[02:05:49] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[02:05:49] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
-[02:05:49] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
+[19:04:37] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
+[19:04:37] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[19:04:37] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[19:04:37] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
+[19:04:37] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
  - Geyser-Spigot (2.6.1-SNAPSHOT), ViaBackwards (5.2.1), ViaVersion (5.2.1), floodgate (2.2.4-SNAPSHOT (b116-0e3163c))
-[02:05:54] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:05:55] [ServerMain/INFO]: Loaded 1290 recipes
-[02:05:56] [ServerMain/INFO]: Loaded 1399 advancements
-[02:05:56] [Server thread/INFO]: Starting minecraft server version 1.21
-[02:05:56] [Server thread/INFO]: Loading properties
-[02:05:56] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[02:05:57] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[02:05:57] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[02:05:57] [Server thread/INFO]: Using 4 threads for Netty based IO
-[02:05:57] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[02:05:58] [Server thread/INFO]: Default game type: SURVIVAL
-[02:05:58] [Server thread/INFO]: Generating keypair
-[02:05:58] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:05:58] [Server thread/INFO]: Using epoll channel type
-[02:05:58] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[02:05:58] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[02:05:59] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
-[02:06:01] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[02:06:01] [Server thread/INFO]: [floodgate] Took 1,873ms to boot Floodgate
-[02:06:01] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.1
-[02:06:01] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.1 is now loaded. Registering protocol transformers and injecting...
-[02:06:02] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[02:06:02] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[02:06:03] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[02:06:03] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[02:06:04] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.1-SNAPSHOT
-[02:06:06] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[02:06:06] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[02:06:06] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.2.1
-[02:06:06] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[02:06:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:06:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:06:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:06:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:06:06] [Server thread/INFO]: Preparing level "world"
-[02:06:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:06:07] [Server thread/INFO]: Time elapsed: 1061 ms
-[02:06:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[02:06:07] [Server thread/INFO]: Time elapsed: 144 ms
-[02:06:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[02:06:08] [Server thread/INFO]: Time elapsed: 90 ms
-[02:06:08] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
-[02:06:08] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.1
-[02:06:08] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
-[02:06:09] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.1-SNAPSHOT
-[02:06:09] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.2.1
-[02:06:09] [Server thread/INFO]: [spark] Starting background profiler...
-[02:06:09] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[02:06:09] [Server thread/INFO]: [Geyser-Spigot] 
-[02:06:09] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.1-b786 (git-master-32160c5)
-[02:06:09] [Server thread/INFO]: [Geyser-Spigot] 
-[02:06:09] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[02:06:18] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 3636
-[02:06:18] [Server thread/INFO]: [Geyser-Spigot] Done (8.107s)! Run /geyser help for help!
-[02:06:18] [Server thread/INFO]: Done preparing level "world" (11.960s)
-[02:06:18] [Server thread/INFO]: Running delayed init tasks
-[02:06:18] [Server thread/INFO]: Done (30.046s)! For help, type "help"
-[02:06:18] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[02:06:18] [Server thread/INFO]: Timings Reset
-[02:07:12] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Jaronese96
-[02:07:12] [localSession-7-2/INFO]: [Geyser-Spigot] Jaronese96 (logged in as: Jaronese96) has connected to the Java server
-[02:07:13] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Jaronese96 joined (UUID: 00000000-0000-0000-0009-01f2303768dd)
-[02:07:13] [Server thread/INFO]: .Jaronese96 joined the game
-[02:07:13] [Server thread/INFO]: .Jaronese96[/127.0.0.1:0] logged in with entity id 21 at ([world]43.5, 79.0, 37.5)
-[02:10:47] [localSession-7-2/INFO]: [Geyser-Spigot] Jaronese96 has disconnected from the Java server because of Bedrock client disconnected
-[02:10:47] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Jaronese96 disconnected
-[02:10:47] [Server thread/INFO]: .Jaronese96 lost connection: Disconnected
-[02:10:47] [Server thread/INFO]: .Jaronese96 left the game
-[02:16:07] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username RanyPro17
-[02:16:07] [localSession-7-3/INFO]: [Geyser-Spigot] RanyPro17 (logged in as: RanyPro17) has connected to the Java server
-[02:16:08] [Server thread/INFO]: [floodgate] Floodgate player logged in as .RanyPro17 joined (UUID: 00000000-0000-0000-0009-01fe556eb9b1)
-[02:16:08] [Server thread/INFO]: .RanyPro17 joined the game
-[02:16:08] [Server thread/INFO]: .RanyPro17[/127.0.0.1:0] logged in with entity id 773 at ([world]40.5, 78.0, 23.5)
-[02:16:17] [Server thread/WARN]: .RanyPro17 moved wrongly!
-[02:18:46] [User Authenticator #0/INFO]: UUID of player Jaronese96 is d7d5dc13-ffa5-397d-8084-4b1611375307
-[02:18:48] [Server thread/INFO]: Jaronese96 joined the game
-[02:18:48] [Server thread/INFO]: Jaronese96[/127.199.167.134:48059] logged in with entity id 1294 at ([world]44.5, 82.0, 25.5)
-[02:20:33] [Server thread/INFO]: Jaronese96 has made the advancement [Monster Hunter]
-[02:20:48] [Server thread/INFO]: Jaronese96 has made the advancement [Stone Age]
-[02:21:07] [User Authenticator #1/INFO]: UUID of player Jxxxry is 23bc955e-082a-3230-80de-bb72520993ee
-[02:21:09] [Server thread/INFO]: Jxxxry joined the game
-[02:21:09] [Server thread/INFO]: Jxxxry[/127.121.205.244:41571] logged in with entity id 1598 at ([world]47.5, 73.0, 40.5)
-[02:22:13] [Server thread/INFO]: Jaronese96 has made the advancement [Getting an Upgrade]
-[02:23:05] [Server thread/INFO]: Jaronese96 has made the advancement [Acquire Hardware]
-[02:23:25] [Server thread/INFO]: .RanyPro17 was shot by Skeleton
-[02:23:28] [Server thread/INFO]: Jxxxry was slain by Drowned
-[02:24:09] [Server thread/INFO]: Jxxxry has made the advancement [Monster Hunter]
-[02:24:53] [Server thread/INFO]: Jxxxry was doomed to fall by .RanyPro17
-[02:25:22] [Server thread/INFO]: .RanyPro17 was slain by Zombie
-[02:26:21] [Server thread/INFO]: .RanyPro17 was slain by Jxxxry
-[02:27:02] [Server thread/INFO]: Jxxxry was blown up by Creeper
-[02:27:10] [Server thread/WARN]: .RanyPro17 moved wrongly!
-[02:31:38] [Server thread/INFO]: Jxxxry has made the advancement [Stone Age]
-[02:32:00] [Server thread/INFO]: Jxxxry has made the advancement [Getting an Upgrade]
-[02:34:00] [Server thread/INFO]: Jaronese96 has made the advancement [Suit Up]
-[02:35:03] [Server thread/INFO]: Jaronese96 has made the advancement [Isn't It Iron Pick]
-[02:38:20] [Server thread/INFO]: Jxxxry has made the advancement [Acquire Hardware]
-[02:39:39] [Server thread/INFO]: Jxxxry has made the advancement [Suit Up]
-[02:40:15] [Server thread/INFO]: Jxxxry has made the advancement [Isn't It Iron Pick]
-[02:42:20] [Server thread/INFO]: .RanyPro17 drowned
-[02:42:21] [Server thread/INFO]: Jaronese96 has made the advancement [Not Today, Thank You]
-[02:46:42] [Server thread/INFO]: Jxxxry has made the advancement [Not Today, Thank You]
-[02:48:14] [Server thread/INFO]: Jaronese96 has made the advancement [Hot Stuff]
-[02:48:53] [Server thread/INFO]: Jaronese96 has made the advancement [Best Friends Forever]
-[02:50:37] [Server thread/INFO]: Jxxxry has made the advancement [Diamonds!]
-[02:54:36] [Server thread/WARN]: .RanyPro17 moved wrongly!
-[02:54:51] [Server thread/INFO]: Jaronese96 has made the advancement [Diamonds!]
-[02:56:23] [Server thread/INFO]: Jaronese96 has made the advancement [Cover Me with Diamonds]
-[02:56:44] [Server thread/INFO]: .RanyPro17 has made the advancement [Stone Age]
-[02:58:25] [Server thread/INFO]: .RanyPro17 has made the advancement [Getting an Upgrade]
-[03:08:29] [Server thread/INFO]: Jaronese96 has made the advancement [Ice Bucket Challenge]
-[03:10:16] [Server thread/INFO]: .RanyPro17 was blown up by Creeper
-[03:19:05] [Async Chat Thread - #0/INFO]: [Not Secure] <Jxxxry> X:55.941 /Y:-50.00000/Z:-309.728
-[03:19:23] [Server thread/INFO]: Jaronese96 has made the advancement [We Need to Go Deeper]
-[03:23:11] [Server thread/INFO]: Jaronese96 has made the advancement [A Terrible Fortress]
-[03:24:02] [Server thread/INFO]: .RanyPro17 has made the advancement [Monster Hunter]
-[03:27:43] [Server thread/INFO]: Jaronese96 was burned to a crisp while fighting Blaze
-[03:28:54] [Server thread/INFO]: Unknown or incomplete command, see below for error
-/seed<--[HERE]
-[03:29:00] [Server thread/INFO]: Seed: [1178228010635994918]
-[03:36:15] [Server thread/INFO]: .RanyPro17 has made the advancement [Acquire Hardware]
-[03:36:17] [Server thread/INFO]: Villager Villager['Villager'/30612, uuid='b6df7169-e849-47d9-87a6-1c2d19c1a745', l='ServerLevel[world]', x=537.65, y=83.00, z=-332.50, cpos=[33, -21], tl=4691, v=true] died, message: 'Villager was slain by Jaronese96'
-[03:36:19] [Server thread/INFO]: Jaronese96 has made the advancement [Sweet Dreams]
-[03:36:22] [Server thread/INFO]: .RanyPro17 has made the advancement [Suit Up]
-[03:38:01] [Server thread/INFO]: Jxxxry has made the advancement [Cover Me with Diamonds]
-[03:38:47] [Server thread/INFO]: .RanyPro17 has made the advancement [Ice Bucket Challenge]
-[03:42:45] [Server thread/INFO]: .RanyPro17 has made the advancement [Isn't It Iron Pick]
-[03:51:33] [Async Chat Thread - #1/INFO]: [Not Secure] <Jaronese96> 325 -45 -413
-[04:01:32] [Server thread/INFO]: .RanyPro17 has made the advancement [Cover Me with Diamonds]
-[04:01:32] [Server thread/INFO]: .RanyPro17 has made the advancement [Diamonds!]
-[04:02:42] [Server thread/INFO]: Jaronese96 burned to death
-[04:05:14] [Server thread/INFO]: Jaronese96 was shot by Skeleton
-[04:06:34] [Server thread/INFO]: Jxxxry drowned
-[04:07:46] [Server thread/INFO]: Jxxxry lost connection: Disconnected
-[04:07:46] [Server thread/INFO]: Jxxxry left the game
+[19:04:42] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:04:44] [ServerMain/INFO]: Loaded 1290 recipes
+[19:04:44] [ServerMain/INFO]: Loaded 1399 advancements
+[19:04:44] [Server thread/INFO]: Starting minecraft server version 1.21
+[19:04:44] [Server thread/INFO]: Loading properties
+[19:04:44] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[19:04:45] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[19:04:45] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:04:45] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:04:46] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[19:04:46] [Server thread/INFO]: Default game type: SURVIVAL
+[19:04:46] [Server thread/INFO]: Generating keypair
+[19:04:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:04:46] [Server thread/INFO]: Using epoll channel type
+[19:04:46] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[19:04:46] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[19:04:48] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[19:04:50] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[19:04:50] [Server thread/INFO]: [floodgate] Took 2,115ms to boot Floodgate
+[19:04:50] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.1
+[19:04:50] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.1 is now loaded. Registering protocol transformers and injecting...
+[19:04:51] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[19:04:51] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[19:04:52] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[19:04:52] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[19:04:53] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.6.1-SNAPSHOT
+[19:04:55] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[19:04:55] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[19:04:55] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.2.1
+[19:04:55] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:04:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:04:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:04:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:04:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:04:55] [Server thread/INFO]: Preparing level "world"
+[19:04:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:04:56] [Server thread/INFO]: Time elapsed: 1119 ms
+[19:04:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:04:57] [Server thread/INFO]: Time elapsed: 202 ms
+[19:04:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:04:57] [Server thread/INFO]: Time elapsed: 110 ms
+[19:04:57] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[19:04:58] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.1
+[19:04:58] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
+[19:04:58] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.6.1-SNAPSHOT
+[19:04:59] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.2.1
+[19:04:59] [Server thread/INFO]: [spark] Starting background profiler...
+[19:04:59] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[19:04:59] [Server thread/INFO]: [Geyser-Spigot] 
+[19:04:59] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.6.1-b786 (git-master-32160c5)
+[19:04:59] [Server thread/INFO]: [Geyser-Spigot] 
+[19:04:59] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[19:05:07] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 3636
+[19:05:07] [Server thread/INFO]: [Geyser-Spigot] Done (8.007s)! Run /geyser help for help!
+[19:05:07] [Server thread/INFO]: Done preparing level "world" (12.347s)
+[19:05:07] [Server thread/INFO]: Running delayed init tasks
+[19:05:07] [Server thread/INFO]: Done (31.539s)! For help, type "help"
+[19:05:07] [Server thread/INFO]: Timings Reset
+[19:05:07] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[19:05:59] [User Authenticator #0/INFO]: UUID of player Jaronese96 is d7d5dc13-ffa5-397d-8084-4b1611375307
+[19:06:02] [Server thread/INFO]: Jaronese96 joined the game
+[19:06:02] [Server thread/INFO]: Jaronese96[/127.199.167.134:36471] logged in with entity id 19 at ([world]-411.0194036234693, 63.0, -355.49265631749273)
+[19:10:09] [Server thread/INFO]: Jaronese96 lost connection: Disconnected
+[19:10:09] [Server thread/INFO]: Jaronese96 left the game
+[19:11:29] [User Authenticator #1/INFO]: UUID of player Jaronese96 is d7d5dc13-ffa5-397d-8084-4b1611375307
+[19:11:30] [Server thread/INFO]: Jaronese96 joined the game
+[19:11:30] [Server thread/INFO]: Jaronese96[/127.199.167.134:56375] logged in with entity id 602 at ([world]-412.91986475385846, 63.0, -347.9716574394771)
+[19:13:27] [User Authenticator #2/INFO]: UUID of player jhtndefinitive is cbffe617-acbb-3759-99fb-1372cfd92278
+[19:13:29] [Server thread/INFO]: jhtndefinitive joined the game
+[19:13:29] [Server thread/INFO]: jhtndefinitive[/127.70.248.167:42279] logged in with entity id 982 at ([world]54.5, 76.0, 33.5)
+[19:13:36] [Async Chat Thread - #0/INFO]: [Not Secure] <jhtndefinitive> pn
+[19:13:43] [Async Chat Thread - #0/INFO]: [Not Secure] <Jaronese96> caca
+[19:13:54] [Async Chat Thread - #0/INFO]: [Not Secure] <jhtndefinitive> ahora me termino el maicra dame 5 horas
+[19:14:09] [Async Chat Thread - #0/INFO]: [Not Secure] <Jaronese96> XDDD
+[19:14:17] [Async Chat Thread - #0/INFO]: [Not Secure] <Jaronese96> te paso mis cordenadas?
